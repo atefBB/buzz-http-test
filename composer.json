@@ -1,0 +1,14 @@
+{
+    "name": "atef/buzz-http",
+    "description": "Test Buzz HTTP package",
+    "type": "project",
+    "require": {
+        "kriswallsmith/buzz": "^0.17.1"
+    },
+    "authors": [
+        {
+            "name": "Atef Ben Ali",
+            "email": "atef.bettaib@gmail.com"
+        }
+    ]
+}
